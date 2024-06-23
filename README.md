@@ -11,7 +11,6 @@ This Puzzle Game is a sliding puzzle game implemented using Python and the Tkint
 
 2. **Moving Tiles:**
    - Use the directional buttons (UP, DOWN, LEFT, RIGHT) provided below the puzzle to move the empty slot and rearrange the tiles.
-   - Alternatively, you can use the arrow keys on your keyboard to move the empty slot.
 
 3. **Winning the Game:**
    - Arrange the tiles in numerical order with the empty slot at the bottom-right corner.
